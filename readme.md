@@ -4,10 +4,10 @@ This is a project made for Security class @DETI
 ## Server
 
 ## Client
-
+There are some inputs that you can uncomment for debugging purpose
 ## Usage
 Start the server to wait for clients
->python3 Server.py [maxPlayers=4]
+>python3 Server.py 
 
 Start clients running this command for each client
 >python3 client.py
